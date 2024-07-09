@@ -1,6 +1,6 @@
-# Convolutional Neural Network (CNN) for Detection of Fruits Images
+# Convolutional Neural Network (CNN) for Detection Fruits Images
 ## Introduction
-Convolutional Neural Networks (CNNs) have been widely used for image classification tasks due to their ability to capture spatial hierarchies in images. This project aims to demonstrates the use of a CNN to classify images of fruits into three categories: Banana, Coconut, and Orange. The implementation involves training a CNN model on a dataset of fruit images and then using the trained model to classify new images.
+Convolutional Neural Networks (CNN) have been widely used for image classification tasks due to their ability to capture spatial hierarchies in images. This project aims to demonstrates the use of a CNN to classify images of fruits into three categories: Banana, Coconut, and Orange. The implementation involves training a CNN model on a dataset of fruit images and then using the trained model to classify new images.
 ## Goal
 The primary objective of this project is to develop a robust Convolutional Neural Network (CNN) model for accurately classifying images of fruits into three distinct categories: Banana, Coconut, and Orange.
 ## Step-by-Step Process
